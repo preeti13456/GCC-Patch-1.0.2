@@ -1,6 +1,7 @@
-class Q3Object {
-    int[] scores;
-    int[] alice;
+class Q3Object 
+    {
+    public void(int[] scores,int[] alice)
+    {
 
     public Q3Object() {
     }
@@ -21,4 +22,4 @@ class Q3Object {
         this.alice = this.alice;
     }
 
-}
+}}
